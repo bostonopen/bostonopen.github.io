@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .Rrrrr {
+      font: italic 90px serif;
+      fill: #6A6C6E;
+    }
+  </style>
+  <text x="0"  y="120" class="Rrrrr">{boston</text>
+  <text x="40" y="220" class="Rrrrr">open</text>
+  <text x="40" y="320" class="Rrrrr">source}</text>
+</svg>
