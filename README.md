@@ -24,10 +24,11 @@ Recently we created a [GitHub org][], this website, and a place for [discussions
 [discussions]: https://github.com/orgs/bostonopen/discussions
 [our name]: https://github.com/orgs/bostonopen/discussions/1
 
-We just launched a new [people site][] and if you've come to a meetup your welcome to [add yourself][].
+If you attended one of the first two meetups you're very welcome
+[add yourself][] to the [list of people][].
 
-[people site]: https://bostonopen.github.io/people
 [add yourself]: https://github.com/bostonopen/people
+[list of people]: https://bostonopen.github.io/people
 
 Previous meetups:
 
