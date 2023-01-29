@@ -15,6 +15,11 @@ The group has been using [Quiet][] to communicate (#boston in the Quiet-Team com
 
 [Quiet]: https://github.com/TryQuiet/quiet
 
+In addition, you are very welcome to join [discussions][] on GitHub, such as what [our name][] should be!
+
+[discussions]: https://github.com/orgs/bostonopen/discussions
+[our name]: https://github.com/orgs/bostonopen/discussions/1
+
 Previous meetups:
 
 - [2023-01](http://blog.greptilian.com/2023/01/03/open-source-meetup-in-brookline-2/)
