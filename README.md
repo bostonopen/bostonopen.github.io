@@ -20,6 +20,11 @@ In addition, you are very welcome to join [discussions][] on GitHub, such as wha
 [discussions]: https://github.com/orgs/bostonopen/discussions
 [our name]: https://github.com/orgs/bostonopen/discussions/1
 
+We just launched a new [people site][] and if you've come to a meetup your welcome to [add yourself][].
+
+[people site]: https://bostonopen.github.io/people
+[add yourself]: https://github.com/bostonopen/people
+
 Previous meetups:
 
 - [2023-01](http://blog.greptilian.com/2023/01/03/open-source-meetup-in-brookline-2/)
