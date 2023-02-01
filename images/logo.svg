@@ -8,6 +8,6 @@
     }
   </style>
   <text x="0"  y="120" class="Rrrrr">{boston</text>
-  <text x="40" y="220" class="Rrrrr">open</text>
-  <text x="40" y="320" class="Rrrrr">source}</text>
+  <text x="80" y="220" class="Rrrrr">open</text>
+  <text x="140" y="320" class="Rrrrr">dev}</text>
 </svg>
