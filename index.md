@@ -1,6 +1,4 @@
-# Boston Open Source
-
-Hello! The next Boston open source meetup will be in March:
+Hello! The next open source meetup will be in March:
 
 - When: Sunday, March 26, 2023 at 5pm ([Google Calendar][])
 - Where: [Hamilton Restaurant & Bar][] (in the back room), 1366 Beacon Street Brookline, MA 02446 ([Google Maps][])
