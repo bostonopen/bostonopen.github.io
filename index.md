@@ -1,6 +1,7 @@
 ---
-title: Boston Open Dev
+layout: default
 ---
+
 Hello! The next open source meetup will be in March:
 
 - When: Sunday, March 26, 2023 at 5pm ([Google Calendar][])
