@@ -11,6 +11,8 @@ Hello! The next open source meetup will be in March:
 [Google Calendar]: https://www.google.com/calendar/event?eid=Mm9xNTRxMzB2MHE2aWdtb3Q0dWl2czhhbjIgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
+<img src="images/logo-box.svg" width="100" align="right">
+
 All are welcome, of course. At the [first][] [two][] meetups, we had around ten people. If you'd like to RSVP (which certainly isn't required!), please email <philipdurbin@gmail.com>.
 
 [first]: http://blog.greptilian.com/2022/12/10/open-source-meetup-in-brookline/
