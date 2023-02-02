@@ -24,7 +24,7 @@ The group has been using [Quiet][] to keep in touch (#boston in the Quiet-Team c
 
 <img src="images/logo.svg" width="100" align="right">
 
-Recently we created a [GitHub org][], [this website][] (pull requests welcome!), a couple logos, and a place for [discussions][], which you are welcome to join (please feel free to weigh in on what [our name][] should be! 😄). If you attended one of the first two meetups, you're very welcome to [add yourself][] to our [list][].
+Recently we created a [GitHub org][], [this website][] (pull requests welcome!), a couple logos, and a place on GitHub for [discussions][], which you are welcome to join (please feel free to weigh in on what [our name][] should be! 😄). If you attended one of the first two meetups, you're very welcome to [add yourself][] to our [list][].
 
 
 [GitHub org]: https://github.com/bostonopen
