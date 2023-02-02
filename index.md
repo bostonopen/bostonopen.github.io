@@ -13,7 +13,7 @@ Hello! The next open source meetup will be in March:
 
 <img src="images/logo-box.svg" width="100" align="right">
 
-All are welcome, of course. At the [first][] [two][] meetups, we had around ten people. If you'd like to RSVP (which certainly isn't required!), please email <philipdurbin@gmail.com>.
+All are welcome, of course. At the [first][] [two][] meetups, we had around ten people. If you'd like to RSVP (which certainly isn't required!), please email <philipdurbin@gmail.com>. (Please also email if it's your grey knit hat that was left behind!)
 
 [first]: http://blog.greptilian.com/2022/12/10/open-source-meetup-in-brookline/
 [two]: http://blog.greptilian.com/2023/01/03/open-source-meetup-in-brookline-2/
