@@ -22,14 +22,14 @@ The group has been using [Quiet][] to keep in touch (#boston in the Quiet-Team c
 
 [Quiet]: https://github.com/TryQuiet/quiet
 
-Recently we created a [GitHub org][], [this website][] (pull requests welcome!), and a place for [discussions][], which you are welcome to join (please feel free to weigh in on what [our name][] should be! 😄). If you attended one of the first two meetups, you're very welcome to [add yourself][] to our [list of people][].
+Recently we created a [GitHub org][], [this website][] (pull requests welcome!), and a place for [discussions][], which you are welcome to join (please feel free to weigh in on what [our name][] should be! 😄). If you attended one of the first two meetups, you're very welcome to [add yourself][] to our [list][].
 
 [GitHub org]: https://github.com/bostonopen
 [this website]: https://github.com/bostonopen/bostonopen.github.io
 [discussions]: https://github.com/orgs/bostonopen/discussions
 [our name]: https://github.com/orgs/bostonopen/discussions/1
 [add yourself]: https://github.com/bostonopen/people
-[list of people]: https://bostonopen.github.io/people
+[list]: https://bostonopen.github.io/people
 
 Previous meetups:
 
