@@ -2,6 +2,8 @@
 layout: default
 ---
 
+(Save the date! April 30th!)
+
 Hello! The next open source meetup will be in March:
 
 - When: Sunday, March 26, 2023 at 5pm ([Google Calendar][])
