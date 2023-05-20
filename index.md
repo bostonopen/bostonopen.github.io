@@ -37,6 +37,10 @@ Recently we created a [GitHub org][], [this website][] (pull requests welcome!),
 [add yourself]: https://github.com/bostonopen/people
 [list]: https://bostonopen.github.io/people
 
+Save the date!
+
+- When: Sunday, June 11, 2023 at 5pm
+
 Previous meetups:
 
 - 2023-04 11 people
