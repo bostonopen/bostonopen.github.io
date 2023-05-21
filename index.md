@@ -4,18 +4,16 @@ layout: default
 
 Hello! Details on next open source meetup:
 
-- When: Sunday, May 21, 2023 at 5pm ([Google Calendar][])
+- When: Sunday, June 11, 2023 at 5pm ([Google Calendar][])
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street Brookline, MA 02446 ([Google Maps][])
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
-[Google Calendar]: https://www.google.com/calendar/event?eid=MXQwZ25objVoMTd1bWRtdGc3NTEzcDhuaXUgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
+[Google Calendar]: https://www.google.com/calendar/event?eid=NWZpZXJxdjIxNHE1c2J1ZDFvYjk4OXRhZGUgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
 <img src="images/logo-box.svg" width="100" align="right">
 
-*Please note! Unlike previous meetups, for the May meetup we'll be meeting in the bar area rather than the back room.*
-
-If you're coming for the first time, these meetups are extremely casual. At the [first][] [four][] [meetups][], we've had around ten people. We eat. We chat. We talk about open source. We talk about all kinds of things.
+If you're coming for the first time, these meetups are extremely casual. Often we're around 7-10 people. We eat. We chat. We talk about open source. We talk about all kinds of things.
 
 <img src="images/logo.svg" width="100" align="right">
 
@@ -29,7 +27,7 @@ The group has been using [Quiet][] to keep in touch (#boston in the Quiet-Team c
 
 [Quiet]: https://github.com/TryQuiet/quiet
 
-Recently we created a [GitHub org][], [this website][] (pull requests welcome!), a couple logos, and a place for [discussion][]. If you have attended a meetup, you're very welcome to [add yourself][] to our [list][].
+We have a [GitHub org][], [this website][] (pull requests welcome!), a couple logos, and a place for [discussion][]. If you have attended a meetup, you're very welcome to [add yourself][] to our [list][].
 
 [GitHub org]: https://github.com/bostonopen
 [this website]: https://github.com/bostonopen/bostonopen.github.io
@@ -37,12 +35,9 @@ Recently we created a [GitHub org][], [this website][] (pull requests welcome!),
 [add yourself]: https://github.com/bostonopen/people
 [list]: https://bostonopen.github.io/people
 
-Save the date!
-
-- When: Sunday, June 11, 2023 at 5pm
-
 Previous meetups:
 
+- 2023-05 7 people
 - 2023-04 11 people
 - [2023-03](http://blog.greptilian.com/2023/02/17/open-source-meetup-in-brookline-3/) 11 people
 - 2023-02 Skipped!
