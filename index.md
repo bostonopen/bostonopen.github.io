@@ -33,8 +33,8 @@ We have a [GitHub org][], [this website][] (pull requests welcome!), a couple lo
 
 Previous meetups:
 
-- 2023-08 Skipped!
-- 2023-07 Skipped!
+- 2023-08 Skipped! Summer vacation! 🏖️
+- 2023-07 Skipped! Summer vacation! 🏖️
 - 2023-06 3 people
 - 2023-05 7 people
 - 2023-04 11 people
