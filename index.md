@@ -2,13 +2,12 @@
 layout: default
 ---
 
-After six open source meetups, we're taking a summer vacation! 🏖️
+Hello! Details on next open source meetup:
 
-We'll meet up again in mid to late September 2023, probably at 5pm on a Sunday, probably at the same bar:
-
-- When: Sunday, September ??, 2023 at 5pm
+- When: Sunday, September 10, 2023 at 5pm ([Google Calendar][])
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street Brookline, MA 02446 ([Google Maps][])
 
+[Google Calendar]: https://www.google.com/calendar/event?eid=NjMxcm1mY2R1Nmw3amw4bzk5czdla201djUgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
@@ -34,6 +33,8 @@ We have a [GitHub org][], [this website][] (pull requests welcome!), a couple lo
 
 Previous meetups:
 
+- 2023-08 Skipped!
+- 2023-07 Skipped!
 - 2023-06 3 people
 - 2023-05 7 people
 - 2023-04 11 people
