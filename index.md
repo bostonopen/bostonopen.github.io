@@ -4,10 +4,10 @@ layout: default
 
 Hello! Details on next open source meetup:
 
-- When: Sunday, September 10, 2023 at 5pm ([Google Calendar][])
+- When: Sunday, October 15, 2023 at 5pm ([Google Calendar][])
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
 
-[Google Calendar]: https://www.google.com/calendar/event?eid=NjMxcm1mY2R1Nmw3amw4bzk5czdla201djUgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
+[Google Calendar]: https://www.google.com/calendar/event?eid=N3BoM3N2bTJjNzVsdnZjcWtoN2loYnQ1b3YgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
@@ -33,6 +33,7 @@ We have a [GitHub org][], [this website][] (pull requests welcome!), a couple lo
 
 Previous meetups:
 
+- 2023-09 10 people
 - 2023-08 Skipped! Summer vacation! 🏖️
 - 2023-07 Skipped! Summer vacation! 🏖️
 - 2023-06 3 people
