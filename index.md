@@ -13,7 +13,7 @@ Hello! Details on next open source meetup:
 
 <img src="images/logo-box.svg" width="100" align="right">
 
-These meetups are extremely casual. Often we're around 7-10 people. We eat. We chat. We talk about open source. We talk about all kinds of things.
+These meetups are extremely casual. Often [we](https://bostonopen.github.io/people) are around 7-10 people. We eat. We chat. We talk about open source. We talk about all kinds of things.
 
 <img src="images/logo.svg" width="100" align="right">
 
