@@ -23,6 +23,8 @@ The group has been using [Quiet][] to keep in touch (#boston in the Quiet-Team c
 
 [Quiet]: https://github.com/TryQuiet/quiet
 
+Follow us on <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a>!
+
 We have a [GitHub org][], [this website][] (pull requests welcome!), a couple logos, and a place for [discussion][]. If you have attended a meetup, you're very welcome to [add yourself][] to our [list][].
 
 [GitHub org]: https://github.com/bostonopen
