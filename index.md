@@ -17,21 +17,23 @@ These meetups are extremely casual. Often [we](https://bostonopen.github.io/peop
 
 <img src="images/logo.svg" width="100" align="right">
 
-There's no need to RSVP, but if you'd like a reminder closer to the next meetup, please email <philipdurbin@gmail.com>.
+You can just show up, but since we are always asked how large of a table we need, we appreciate you letting us know if you're coming. You can email <philipdurbin@gmail.com> or post on the [Zulip topic][].
 
-The group has been using [Quiet][] to keep in touch (#boston in the Quiet-Team community). Please feel free to ask for the invite code.
+[Zulip topic]: https://osdc.zulipchat.com/#narrow/stream/406743-boston/topic/2023-10.20meetup/near/394214504
+
+To keep in touch, we are experiementing with a variety of options. Since the beginning, we've been using [Quiet][] and [GitHub Discussions][]. Recently we added <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a> and [Zulip][].
 
 [Quiet]: https://github.com/TryQuiet/quiet
+[GitHub Discussions]: https://github.com/orgs/bostonopen/discussions
+[Zulip]: https://osdc.zulipchat.com/#narrow/stream/406743-boston
 
-Follow us on <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a>!
+You can help improve our [website on GitHub][], especially by adding yourself to our [list of people][]. The file to edit is [people.tsv][].
 
-We have a [GitHub org][], [this website][] (pull requests welcome!), a couple logos, and a place for [discussion][]. If you have attended a meetup, you're very welcome to [add yourself][] to our [list][].
+See you soon!
 
-[GitHub org]: https://github.com/bostonopen
-[this website]: https://github.com/bostonopen/bostonopen.github.io
-[discussion]: https://github.com/orgs/bostonopen/discussions
-[add yourself]: https://github.com/bostonopen/people
-[list]: https://bostonopen.github.io/people
+[website on GitHub]: https://github.com/bostonopen/bostonopen.github.io
+[list of people]: https://bostonopen.github.io/people
+[people.tsv]: https://github.com/bostonopen/people/blob/main/people.tsv
 
 Previous meetups:
 
