@@ -4,7 +4,7 @@ layout: default
 
 Hello! Details on next open source meetup:
 
-- When: Sunday, November 14, 2023 at 5pm ([Google Calendar][])
+- When: Sunday, November 12, 2023 at 5pm ([Google Calendar][])
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
 
 [Google Calendar]: https://www.google.com/calendar/event?eid=MHRqdjFpMzJjYnM3ZmtvcGZ0azA0dGtraGQgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
