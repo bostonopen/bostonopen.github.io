@@ -37,7 +37,7 @@ See you soon!
 
 Previous meetups:
 
-- 2023-09 6 people
+- 2023-10 6 people
 - 2023-09 10 people
 - 2023-08 Skipped! Summer vacation! 🏖️
 - 2023-07 Skipped! Summer vacation! 🏖️
