@@ -2,6 +2,10 @@
 layout: default
 ---
 
+When should we meet in December? Cast your vote in [our poll](https://osdc.zulipchat.com/#narrow/stream/406743-boston/topic/2023-12.20meetup/near/401880048)!
+
+(We'll update the info below soon.)
+
 Hello! Details on next open source meetup:
 
 - When: Sunday, November 12, 2023 at 5pm ([Google Calendar][])
