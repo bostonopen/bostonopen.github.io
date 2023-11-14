@@ -2,16 +2,12 @@
 layout: default
 ---
 
-When should we meet in December? Cast your vote in [our poll](https://osdc.zulipchat.com/#narrow/stream/406743-boston/topic/2023-12.20meetup/near/401880048)!
-
-(We'll update the info below soon.)
-
 Hello! Details on next open source meetup:
 
-- When: Sunday, November 12, 2023 at 5pm ([Google Calendar][])
+- When: Sunday, December 10, 2023 at 5pm ([Google Calendar][])
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
 
-[Google Calendar]: https://www.google.com/calendar/event?eid=MHRqdjFpMzJjYnM3ZmtvcGZ0azA0dGtraGQgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
+[Google Calendar]: https://www.google.com/calendar/event?eid=NGZiMzZpZ3FjbTZlMmFqMWc2MWxjMXU3YmggcGhpbGlwZHVyYmluQG0&ctz=America/New_York
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
@@ -21,26 +17,22 @@ These meetups are extremely casual. Often [we](https://bostonopen.github.io/peop
 
 <img src="images/logo.svg" width="100" align="right">
 
-You can just show up, but since we are always asked how large of a table we need, we appreciate you letting us know if you're coming. You can email <philipdurbin@gmail.com> or post on the [Zulip topic][].
-
-[Zulip topic]: https://osdc.zulipchat.com/#narrow/stream/406743-boston/topic/2023-10.20meetup/near/394214504
-
-To keep in touch, we are experiementing with a variety of options. Since the beginning, we've been using [Quiet][] and [GitHub Discussions][]. Recently we added <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a> and [Zulip][].
+You can just show up, but since we are always asked how large of a table we need, we appreciate you letting us know if you're coming. You can post on [Zulip][], <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a>, [GitHub Discussions][], or [Quiet][]. Or you can email <philipdurbin@gmail.com>.
 
 [Quiet]: https://github.com/TryQuiet/quiet
 [GitHub Discussions]: https://github.com/orgs/bostonopen/discussions
 [Zulip]: https://osdc.zulipchat.com/#narrow/stream/406743-boston
+[Mastodon]: https://floss.social/@bostonopen
 
-You can help improve our [website on GitHub][], especially by adding yourself to our [list of people][]. The file to edit is [people.tsv][].
+Once you have attended a meetup, we'd love for you to add yourself to [bostonopen.dev/people](https://bostonopen.dev/people)! The file to edit is [people.tsv][].
+
+[people.tsv]: https://github.com/bostonopen/people/blob/main/people.tsv
 
 See you soon!
 
-[website on GitHub]: https://github.com/bostonopen/bostonopen.github.io
-[list of people]: https://bostonopen.github.io/people
-[people.tsv]: https://github.com/bostonopen/people/blob/main/people.tsv
-
 Previous meetups:
 
+- 2023-11 7 people ([pics!](https://floss.social/@bostonopen/111400315116089590))
 - 2023-10 6 people
 - 2023-09 10 people
 - 2023-08 Skipped! Summer vacation! 🏖️
