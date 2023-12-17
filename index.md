@@ -4,10 +4,10 @@ layout: default
 
 Hello! Details on next open source meetup:
 
-- When: Sunday, December 10, 2023 at 5pm ([Google Calendar][])
+- When: Sunday, January 21, 2024 at 5pm ([Google Calendar][])
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
 
-[Google Calendar]: https://www.google.com/calendar/event?eid=NGZiMzZpZ3FjbTZlMmFqMWc2MWxjMXU3YmggcGhpbGlwZHVyYmluQG0&ctz=America/New_York
+[Google Calendar]: https://www.google.com/calendar/event?eid=NjF1MDIxMW41MTRwZGtkZWw5N2lzb3Nhb2YgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
@@ -32,6 +32,7 @@ See you soon!
 
 Previous meetups:
 
+- 2023-12 7 people
 - 2023-11 7 people ([pics!](https://floss.social/@bostonopen/111400315116089590))
 - 2023-10 6 people
 - 2023-09 10 people
