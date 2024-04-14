@@ -10,6 +10,13 @@ Hello! Details on next open source meetup:
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
+This will be followed only a week later by May's meetup, held later in the evening, just after the end of [LibrePlanet 2024][]:
+
+- When: Sunday, May 5, 2024 at 7pm
+- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
+
+[LibrePlanet 2024]: https://libreplanet.org/2024/
+
 <img src="images/logo-box.svg" width="100" align="right">
 
 These meetups are extremely casual. Often [we](https://bostonopen.github.io/people) are around 7-10 people. We eat. We chat. We talk about open source. We talk about all kinds of things. Whether you're an experienced open source developer or user, or you're just curious about open source, you're welcome to join!
