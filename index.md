@@ -2,20 +2,19 @@
 layout: default
 ---
 
-Hello! Details on next open source meetup:
-
-- When: Sunday, April 28, 2024 at 5pm
-- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
-
-[Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
-[Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
-
-This will be followed only a week later by May's meetup, held later in the evening, just after the end of [LibrePlanet 2024][]:
+Hello! Our May meetup will be held just after [LibrePlanet 2024][]:
 
 - When: Sunday, May 5, 2024 at 7pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
 
+(We posted it as a [birds-of-a-feather][] event.)
+
+Pleae note that this is two hours later than our usual time.
+
+[Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
+[Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 [LibrePlanet 2024]: https://libreplanet.org/2024/
+[birds-of-a-feather]: https://libreplanet.org/wiki/LibrePlanet:Conference/2024/BOF#Sunday_Night_Meetup_with_Boston_Open_Dev
 
 <img src="images/logo-box.svg" width="100" align="right">
 
@@ -38,6 +37,7 @@ See you soon!
 
 Previous meetups:
 
+- 2023-04 8 people ([pics!](https://floss.social/@bostonopen/112351334360963966))
 - 2024-03 7 people
 - 2024-02 5 people
 - 2024-01 7 people
