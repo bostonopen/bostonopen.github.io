@@ -4,10 +4,8 @@ layout: default
 
 Hello! Details on next open source meetup:
 
-- When: Sunday, August [?? (please vote!)], 2024 at 7pm
+- When: Sunday, August 18, 2024 at 7pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
-
-[?? (please vote!)]: https://osdc.zulipchat.com/#narrow/stream/406743-boston/topic/2024-08.20meetup/near/453168075
 
 Yes, 7pm instead of 5pm because the days are long.
 
