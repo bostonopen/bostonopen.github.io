@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Please join the conversation [in Zulip](https://osdc.zulipchat.com/#narrow/stream/406743-boston/topic/2024-10.20meetup/near/472586983) about when to meet in October!
+
 Hello! Details on next open source meetup:
 
 - When: Sunday, September 22, 2024 at 7pm
