@@ -32,6 +32,7 @@ See you soon!
 
 Previous meetups:
 
+- 2024-09 8 people
 - 2024-08 4 people
 - 2024-07 4 people
 - 2024-06 6 people ([pics!](https://floss.social/@bostonopen/112717247483527395))
