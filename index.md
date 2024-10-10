@@ -2,11 +2,9 @@
 layout: default
 ---
 
-## Please join the conversation [in Zulip](https://osdc.zulipchat.com/#narrow/stream/406743-boston/topic/2024-10.20meetup/near/472586983) about when to meet in October!
-
 Hello! Details on next open source meetup:
 
-- When: Sunday, September 22, 2024 at 7pm
+- When: Sunday, October 27, 2024 at 6pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
 
 Yes, 7pm instead of 5pm because the days are (still somewhat) long.
