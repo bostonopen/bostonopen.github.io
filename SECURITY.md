@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-We take the security of Boston Open Source's website and community infrastructure seriously. If you discover a security vulnerability, please follow these steps:
+We take the security of Boston Open Dev's website and community infrastructure seriously. If you discover a security vulnerability, please follow these steps:
 
 1. **DO NOT** create a public GitHub issue
 2. Report via one of these secure channels (in order of preference):
