@@ -53,6 +53,6 @@ We believe in responsible disclosure and will credit security researchers who re
 
 ## Updates
 
-This security policy may be updated from time to time. Please refer to the Git history for changelog.
+This security policy may be updated from time to time. Please refer to the Git history for the changelog.
 
 Last Updated: October 2024
