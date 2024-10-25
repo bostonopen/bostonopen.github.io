@@ -25,12 +25,6 @@ Please report issues related to:
 - Concerns about personal information exposure
 - Any other security-related issues
 
-## Response Timeline
-
-- Initial Response: Within 48 hours
-- Status Update: Within 5 days
-- Resolution Timeline: Case-by-case basis depending on severity
-
 ## Scope
 
 In scope:
