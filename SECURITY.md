@@ -28,8 +28,8 @@ Please report issues related to:
 ## Scope
 
 In scope:
-- The bostonopen.github.io website
-- Any subdomains under bostonopen.github.io
+- The bostonopen.dev website
+- Any subdomains under bostonopen.dev
 - Repository content
 - Community-related infrastructure
 
