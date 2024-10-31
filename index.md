@@ -9,7 +9,7 @@ Hello! Details on next open source meetup:
 - When: Sunday, October 27, 2024 at 6pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][])
 
-Yes, 7pm instead of 5pm because the days are (still somewhat) long.
+Yes, 6pm instead of 5pm because the days are (still somewhat) long.
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
