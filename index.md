@@ -22,6 +22,8 @@ You can just show up, but since we are always asked how large of a table we need
 [Zulip]: https://osdc.zulipchat.com/#narrow/stream/406743-boston
 [Mastodon]: https://floss.social/@bostonopen
 
+We use the default [code of conduct](CODE_OF_CONDUCT.md) from GitHub, which says we want "an open, welcoming, diverse, inclusive, and healthy community."
+
 Once you have attended a meetup, we'd love for you to add yourself to [bostonopen.dev/people](https://bostonopen.dev/people)! The file to edit is [people.tsv][].
 
 [people.tsv]: https://github.com/bostonopen/people/blob/main/people.tsv
