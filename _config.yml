@@ -1,3 +1,5 @@
 title: Boston Open Dev
 description: open source meetups in Boston (ish)
 theme: jekyll-theme-hacker
+include:
+  - CODE_OF_CONDUCT.md
