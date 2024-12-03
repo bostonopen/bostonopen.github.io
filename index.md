@@ -16,11 +16,12 @@ These meetups are extremely casual. Often [we](https://bostonopen.github.io/peop
 
 <img src="images/logo.svg" width="100" align="right">
 
-You can just show up, but since we are always asked how large of a table we need, we appreciate you letting us know if you're coming. You can post on [Zulip][], <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a>, or [GitHub Discussions][]. Or you can email <philipdurbin@gmail.com>.
+You can just show up, but since we are always asked how large of a table we need, we appreciate you letting us know if you're coming. You can post on [Zulip][], <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a>, [Signal Group][] or [GitHub Discussions][]. Or you can email <philipdurbin@gmail.com>.
 
 [GitHub Discussions]: https://github.com/orgs/bostonopen/discussions
 [Zulip]: https://osdc.zulipchat.com/#narrow/stream/406743-boston
 [Mastodon]: https://floss.social/@bostonopen
+[Signal Group]: https://signal.group/#CjQKIGoh9--iomqNWoG9reLXz9RaAnDC_O1bw1BOk3gZlexUEhDy9Tes9s26HYi_bg5voUBE
 
 We use the default [code of conduct](CODE_OF_CONDUCT.md) from GitHub, which says we want "an open, welcoming, diverse, inclusive, and healthy community."
 
