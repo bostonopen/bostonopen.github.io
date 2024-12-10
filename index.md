@@ -12,7 +12,7 @@ Hello! Details on next open source meetup:
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
-<img src="images/2024-11.jpg" width="100">
+<img src="images/2024-11.jpg">
 
 <img src="images/logo-box.svg" width="100" align="right">
 
