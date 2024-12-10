@@ -12,6 +12,8 @@ Hello! Details on next open source meetup:
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
+<img src="images/2024-11.jpg" width="100">
+
 <img src="images/logo-box.svg" width="100" align="right">
 
 These meetups are extremely casual. Often [we](https://bostonopen.github.io/people) are around 7-10 people. We eat. We chat. We talk about open source. We talk about all kinds of things. Whether you're an experienced open source developer or user, or you're just curious about open source, you're welcome to join!
