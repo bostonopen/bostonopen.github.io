@@ -7,7 +7,7 @@ layout: default
 Hello! Details on next open source meetup:
 
 - When: Sunday, December 8, 2024 at 5pm
-- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([Open Street Map][hamilton_osm])
+- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [hamilton_gmaps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
