@@ -2,12 +2,14 @@
 layout: default
 ---
 
-## Help us decide when (and where!) to meet in January 2025 [in Zulip](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-01/near/487119027)!
+Hello! Details on next open source meetup (we are trying a new location!):
 
-Hello! Details on next open source meetup:
+- When: Sunday, January 12, 2025 at 5pm
+- Where: [Mamacita][], 329 Huntington Ave, Boston, MA 02115 ([Google Maps][mamacita_gmaps]) ([OpenStreetMap][mamacita_osm])
 
-- When: Sunday, December 8, 2024 at 5pm
+<!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
+-->
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
 [hamilton_gmaps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
