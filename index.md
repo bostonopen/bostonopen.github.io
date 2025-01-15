@@ -44,7 +44,7 @@ See you soon!
 
 Previous meetups:
 
-- 2025-01 5 people (Mamacita)
+- 2025-01 5 people (Mamacita, [pics!](https://floss.social/@bostonopen/113830228361120420))
 - 2024-12 8 people ([pics!](https://floss.social/@bostonopen/113619966982663396))
 - 2024-11 9 people ([pics!](https://floss.social/@bostonopen/113550742212323250))
 - 2024-10 7 people ([pics!](https://floss.social/@bostonopen/113382201446352054))
