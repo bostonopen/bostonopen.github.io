@@ -44,7 +44,7 @@ See you soon!
 
 Previous meetups:
 
-- 2025-01 5 people (Mamacita, [pics!](https://floss.social/@bostonopen/113830228361120420))
+- 2025-01 5 people ([Mamacita](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Mamacita/near/486822871), [pics!](https://floss.social/@bostonopen/113830228361120420))
 - 2024-12 8 people ([pics!](https://floss.social/@bostonopen/113619966982663396))
 - 2024-11 9 people ([pics!](https://floss.social/@bostonopen/113550742212323250))
 - 2024-10 7 people ([pics!](https://floss.social/@bostonopen/113382201446352054))
