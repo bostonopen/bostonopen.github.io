@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Hello! Details on next open source meetup (we are trying a new location!):
+Hello! Details on next open source meetup:
 
-- When: Sunday, January 12, 2025 at 5pm
-- Where: [Mamacita][], 329 Huntington Ave, Boston, MA 02115 ([Google Maps][mamacita_gmaps]) ([OpenStreetMap][mamacita_osm])
+- When: Sunday, February 23, 2025 at 7pm
+- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 
 <!--
-- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
+- Where: [Mamacita][], 329 Huntington Ave, Boston, MA 02115 ([Google Maps][mamacita_gmaps]) ([OpenStreetMap][mamacita_osm])
 -->
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
