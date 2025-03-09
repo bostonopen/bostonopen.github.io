@@ -4,7 +4,7 @@ layout: default
 
 Hello! Details on next open source meetup:
 
-- When: Sunday, February 23, 2025 at 7pm
+- When: Sunday, March 16, 2025 at 7pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 
 <!--
