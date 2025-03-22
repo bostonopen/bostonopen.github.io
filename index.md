@@ -2,9 +2,11 @@
 layout: default
 ---
 
+## Vote on when to meet in April [on Zulip](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-04.20meetup/near/507486042)!
+
 Hello! Details on next open source meetup:
 
-- When: Sunday, March 16, 2025 at 7pm
+- When: Sunday, April ??, 2025 at 7pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 
 <!--
