@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Vote on when to meet in April [on Zulip](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-04.20meetup/near/507486042)!
+**Vote on when to meet in April [on Zulip](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-04.20meetup/near/507486042)!**
 
 Hello! Details on next open source meetup:
 
