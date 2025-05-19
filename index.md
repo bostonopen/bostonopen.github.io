@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Help us decide when and where to meet in June! See <https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-06.20meetup/near/518984302>
+
 Hello! Details on next open source meetup:
 
 - When: Sunday, May 18, 2025 at 7pm
