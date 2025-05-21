@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Help us decide when and where to meet in June! See <https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-06.20meetup/near/518984302>
+Hello! We are a friendly group of open source developers and enthusiasts who usually meet at a bar, but we are mixing it up in June! We plan to take a free tour of [Artisans Asylum][] (registration on their Eventbrite required) and then walk 12-15 minutes to the [Charles River Speedway][] for food and drinks. Please feel free to [chat with us](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-06.20meetup/near/518984302) about the plan (login not required to read the chat), which you'll find below!
 
-Hello! Details on next open source meetup:
+- When: Sunday, June 8, 2025 at 3:15pm
+- Where: [Artisans Asylum][], 96 Holton St, Boston, MA 02135 ([Google Maps][artisans_gmaps]) ([OpenStreetMap][artisans_osm])
 
-- When: Sunday, May 18, 2025 at 7pm
-- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
+...then...
+
+- When: After the tour
+- Where: [Charles River Speedway][], 525 Western Ave, Brighton, MA 02135 ([Google Maps][crs_gmaps]) ([OpenStreetMap][crs_osm])
 
 <!--
+- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 - Where: [Mamacita][], 329 Huntington Ave, Boston, MA 02115 ([Google Maps][mamacita_gmaps]) ([OpenStreetMap][mamacita_osm])
 -->
 
@@ -20,6 +24,14 @@ Hello! Details on next open source meetup:
 [Mamacita]: https://mamacitaboston.com
 [mamacita_gmaps]: https://maps.app.goo.gl/cmmWjghJSSGcKRLQ7
 [mamacita_osm]: https://www.openstreetmap.org/node/1914792389
+
+[Artisans Asylum]: https://www.artisansasylum.com
+[artisans_gmaps]: https://maps.app.goo.gl/qGo3cgqziveQvydQ7
+[artisans_osm]: https://www.openstreetmap.org/node/11011208188
+
+[Charles River Speedway]: https://charlesriverspeedway.com
+[crs_gmaps]: https://maps.app.goo.gl/GJDeiwGj455X6Exx9
+[crs_osm]: https://www.openstreetmap.org/way/29631604
 
 <img src="images/2024-11.jpg">
 
