@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## For July, we have an idea we're kicking around here: <https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/527353186>
+
 Hello! We are a friendly group of open source developers and enthusiasts who usually meet at a bar, but we are mixing it up in June! We plan to take a free tour of [Artisans Asylum][] (registration on their [Eventbrite](https://www.eventbrite.com/e/artisans-asylum-public-tour-tickets-677031548587) required) and then walk 12-15 minutes to the [Charles River Speedway][] for food and drinks. Please feel free to [chat with us](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-06.20meetup/near/518984302) about the plan (login not required to read the chat), which you'll find below!
 
 - When: Sunday, June 8, 2025 at 3:15pm
