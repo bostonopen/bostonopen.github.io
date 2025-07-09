@@ -2,17 +2,11 @@
 layout: default
 ---
 
-## For July, we have an idea we're kicking around here: <https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/527353186>
+Hello! For July we are continuing to mix it up. We're going to meet at [Time Out Market Boston][] to eat something and then (weather permitting) walk to some nearby public art called [Studio Without Walls](https://www.studioswithoutwalls.org). Please feel free to jump in on the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/527353186)
+on Zulip.
 
-Hello! We are a friendly group of open source developers and enthusiasts who usually meet at a bar, but we are mixing it up in June! We plan to take a free tour of [Artisans Asylum][] (registration on their [Eventbrite](https://www.eventbrite.com/e/artisans-asylum-public-tour-tickets-677031548587) required) and then walk 12-15 minutes to the [Charles River Speedway][] for food and drinks. Please feel free to [chat with us](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-06.20meetup/near/518984302) about the plan (login not required to read the chat), which you'll find below!
-
-- When: Sunday, June 8, 2025 at 3:15pm
-- Where: [Artisans Asylum][], 96 Holton St, Boston, MA 02135 ([Google Maps][artisans_gmaps]) ([OpenStreetMap][artisans_osm])
-
-...then...
-
-- When: After the tour
-- Where: [Charles River Speedway][], 525 Western Ave, Brighton, MA 02135 ([Google Maps][crs_gmaps]) ([OpenStreetMap][crs_osm])
+- When: Sunday, July 20th, 2025 at 7pm
+- Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps])
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
@@ -34,6 +28,9 @@ Hello! We are a friendly group of open source developers and enthusiasts who usu
 [Charles River Speedway]: https://charlesriverspeedway.com
 [crs_gmaps]: https://maps.app.goo.gl/GJDeiwGj455X6Exx9
 [crs_osm]: https://www.openstreetmap.org/way/29631604
+
+[Time Out Market Boston]: https://www.timeout.com/time-out-market-boston
+[tob_gmaps]: https://maps.app.goo.gl/Rxc91vumkD2PRJmu8
 
 <img src="images/2024-11.jpg">
 
