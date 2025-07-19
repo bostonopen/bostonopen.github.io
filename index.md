@@ -57,6 +57,7 @@ See you soon!
 
 Previous meetups:
 
+- 2025-06 7 people
 - 2025-05 3 people
 - 2025-04 7 people
 - 2025-03 5 people
