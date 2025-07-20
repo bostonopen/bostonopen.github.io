@@ -57,7 +57,7 @@ See you soon!
 
 Previous meetups:
 
-- 2025-06 7 people
+- 2025-06 7 people ([Artisans Asylum](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Artisans.20Asylum/near/518933008), [pics!](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-06.20meetup/near/523011365))
 - 2025-05 3 people
 - 2025-04 7 people
 - 2025-03 5 people
