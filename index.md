@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## We're still deciding when and where to meet in August. Please feel free to [join](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-08.20meetup/near/529743825) the conversation!
+
 Hello! For July we are continuing to mix it up. We're going to meet at [Time Out Market Boston][] to eat something and then (weather permitting) walk to some nearby public art called [Studio Without Walls](https://www.studioswithoutwalls.org). Please feel free to jump in on the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/527353186)
 on Zulip.
 
