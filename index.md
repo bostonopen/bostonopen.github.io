@@ -38,7 +38,7 @@ We're meeting in Harvard Square in August! Please feel free to join the [discuss
 
 <img src="images/logo-box.svg" width="100" align="right">
 
-These meetups are extremely casual. Often [we](https://bostonopen.github.io/people) are around 7-10 people. We eat. We chat. We talk about open source. We talk about all kinds of things. Whether you're an experienced open source developer or user, or you're just curious about open source, you're welcome to join!
+These meetups are extremely casual. Often [we](https://bostonopen.github.io/people) are around 5-7 people. We eat. We chat. We talk about open source. We talk about all kinds of things. Whether you're an experienced open source developer or user, or you're just curious about open source, you're welcome to join!
 
 <img src="images/logo.svg" width="100" align="right">
 
