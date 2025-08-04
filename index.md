@@ -2,13 +2,10 @@
 layout: default
 ---
 
-## We're still deciding when and where to meet in August. Please feel free to [join](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-08.20meetup/near/529743825) the conversation!
+We're meeting in Harvard Square in August! Please feel free to join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-08.20meetup/near/529743825)! See you there!
 
-Hello! For July we are continuing to mix it up. We're going to meet at [Time Out Market Boston][] to eat something and then (weather permitting) walk to some nearby public art called [Studio Without Walls](https://www.studioswithoutwalls.org). Please feel free to jump in on the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/527353186)
-on Zulip.
-
-- When: Sunday, July 20th, 2025 at 7pm
-- Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps])
+- When: Sunday, August 10th, 2025 at 5pm
+- Where: [Grendel's Den][], 89 Winthrop St, Cambridge, MA 02138 ([Google Maps][grendels_gmaps])
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
@@ -33,6 +30,9 @@ on Zulip.
 
 [Time Out Market Boston]: https://www.timeout.com/time-out-market-boston
 [tob_gmaps]: https://maps.app.goo.gl/Rxc91vumkD2PRJmu8
+
+[Grendel's Den]: https://www.grendelsden.com
+[grendels_gmaps]: https://maps.app.goo.gl/1RE9sKSvbpKXrpQ17
 
 <img src="images/2024-11.jpg">
 
