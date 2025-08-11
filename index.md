@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Please join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794) for where and when to meet in September!
+
 We're meeting in Harvard Square in August! Please feel free to join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-08.20meetup/near/529743825)! Also, we're [celebrating](https://wiki.debian.org/ReleasePartyTrixie#ReleasePartyTrixie.2FUSA:_Boston.2FCambridge.USA:_Boston.2FCambridge) the release of Trixie! See you there!
 
 - When: Sunday, August 10th, 2025 at 5pm
