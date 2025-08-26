@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Please join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794) for where and when to meet in September!
+# In September we're meeting at [Bow Market][] ([Google Maps][bow_gmaps]) for some [afternoon hacking](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/530161525)! Please [vote](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794) on when to meet!
+
 
 We're meeting in Harvard Square in August! Please feel free to join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-08.20meetup/near/529743825)! Also, we're [celebrating](https://wiki.debian.org/ReleasePartyTrixie#ReleasePartyTrixie.2FUSA:_Boston.2FCambridge.USA:_Boston.2FCambridge) the release of Trixie! See you there!
 
@@ -35,6 +36,9 @@ We're meeting in Harvard Square in August! Please feel free to join the [discuss
 
 [Grendel's Den]: https://www.grendelsden.com
 [grendels_gmaps]: https://maps.app.goo.gl/1RE9sKSvbpKXrpQ17
+
+[Bow Market]: https://www.bowmarketsomerville.com
+[bow_gmaps]: https://maps.app.goo.gl/7PMEXgehNYjeXVnx9
 
 <img src="images/2024-11.jpg">
 
