@@ -2,17 +2,15 @@
 layout: default
 ---
 
-# In September we're meeting at [Bow Market][] ([Google Maps][bow_gmaps]) for some [afternoon hacking](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/530161525)! Please [vote](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794) on when to meet!
+In September we're meeting at [Bow Market][] for some [afternoon hacking](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/530161525)! Optionally, you can RSVP in the [discussion thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794).
 
-
-We're meeting in Harvard Square in August! Please feel free to join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-08.20meetup/near/529743825)! Also, we're [celebrating](https://wiki.debian.org/ReleasePartyTrixie#ReleasePartyTrixie.2FUSA:_Boston.2FCambridge.USA:_Boston.2FCambridge) the release of Trixie! See you there!
-
-- When: Sunday, August 10th, 2025 at 5pm
-- Where: [Grendel's Den][], 89 Winthrop St, Cambridge, MA 02138 ([Google Maps][grendels_gmaps])
+- When: Sunday, Sept. 21th, 2025 at 2pm
+- Where: [Bow Market][], 1 Bow Market Way, Somerville, MA 02143 ([Google Maps][bow_gmaps])
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 - Where: [Mamacita][], 329 Huntington Ave, Boston, MA 02115 ([Google Maps][mamacita_gmaps]) ([OpenStreetMap][mamacita_osm])
+- Where: [Grendel's Den][], 89 Winthrop St, Cambridge, MA 02138 ([Google Maps][grendels_gmaps])
 -->
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
