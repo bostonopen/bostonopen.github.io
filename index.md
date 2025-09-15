@@ -2,10 +2,12 @@
 layout: default
 ---
 
-In September we're meeting at [Bow Market][] for some [afternoon hacking](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/530161525)! Optionally, you can RSVP in the [discussion thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794).
+In September we're meeting at [Bow Market][] for some afternoon hacking! Optionally, you can RSVP in the [discussion thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794). There are several options for a bite, and there's coffee and beer at Remnant Brewing!
+
+Bring a laptop. All you need are git, ssh, and a browser. We'll be working on "a better Porchfest map". See the [discussion thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/539447211) for details on the project. (Or you can just come and hang out!) 
 
 - When: Sunday, Sept. 21th, 2025 at 2pm
-- Where: [Bow Market][], 1 Bow Market Way, Somerville, MA 02143 ([Google Maps][bow_gmaps])
+- Where: [Bow Market][], 1 Bow Market Way, Somerville, MA 02143 ([Google Maps][bow_gmaps]) ([OpenStreetMap][bow_osm])
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
@@ -37,6 +39,7 @@ In September we're meeting at [Bow Market][] for some [afternoon hacking](https:
 
 [Bow Market]: https://www.bowmarketsomerville.com
 [bow_gmaps]: https://maps.app.goo.gl/7PMEXgehNYjeXVnx9
+[bow_osm]: https://www.openstreetmap.org/way/1330341631
 
 <img src="images/2024-11.jpg">
 
