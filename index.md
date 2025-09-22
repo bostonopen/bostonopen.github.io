@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Help us decide when and where to meet in October! Join the [thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-10.20meetup/near/540695374) on Zulip! 
+
 In September we're meeting at [Bow Market][] for some afternoon hacking! Optionally, you can RSVP in the [discussion thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794). There are several options for a bite, and there's coffee and beer at Remnant Brewing!
 
 Bring a laptop. All you need are git, ssh, and a browser. We'll be working on "a better Porchfest map". See the [discussion thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/539447211) for details on the project. (Or you can just come and hang out!) 
