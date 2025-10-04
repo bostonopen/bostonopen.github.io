@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! Details on next open source meetup, which is colocated with:
+Hello! Details on next open source meetup, which is colocated with the post-[FSF40 celebration](https://www.fsf.org/blogs/community/fsf40-celebration-registration):
 
 - When: Saturday, Oct. 4th, 2025 at 7:30pm ⏰
 - Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps]) 🧭
@@ -67,7 +67,7 @@ See you soon!
 
 Previous meetups:
 
-- 2025-05 7 people ([pics](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/540677611))
+- 2025-09 7 people ([pics](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/540677611))
 - 2025-08 15 people ([pics!](https://floss.social/@bostonopen/115006739381797224))
 - 2025-07 3 people ([pics!](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/529716409))
 - 2025-06 7 people ([Artisans Asylum](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Artisans.20Asylum/near/518933008), [pics!](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-06.20meetup/near/523011365))
