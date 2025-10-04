@@ -2,19 +2,18 @@
 layout: default
 ---
 
-## Help us decide when and where to meet in October! Join the [thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-10.20meetup/near/540695374) on Zulip! 
+Hello! Details on next open source meetup, which is colocated with:
 
-In September we're meeting at [Bow Market][] for some afternoon hacking! Optionally, you can RSVP in the [discussion thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/533688794). There are several options for a bite, and there's coffee and beer at Remnant Brewing!
+- When: Saturday, Oct. 4th, 2025 at 7:30pm ⏰
+- Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps]) 🧭
+- [Discuss](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-10.20meetup/with/542923452)! 💬
 
-Bring a laptop. All you need are git, ssh, and a browser. We'll be working on "a better Porchfest map". See the [discussion thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/Afternoon.20hack.20meetup/near/539447211) for details on the project. (Or you can just come and hang out!) 
-
-- When: Sunday, Sept. 21th, 2025 at 2pm
-- Where: [Bow Market][], 1 Bow Market Way, Somerville, MA 02143 ([Google Maps][bow_gmaps]) ([OpenStreetMap][bow_osm])
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 - Where: [Mamacita][], 329 Huntington Ave, Boston, MA 02115 ([Google Maps][mamacita_gmaps]) ([OpenStreetMap][mamacita_osm])
 - Where: [Grendel's Den][], 89 Winthrop St, Cambridge, MA 02138 ([Google Maps][grendels_gmaps])
+- Where: [Bow Market][], 1 Bow Market Way, Somerville, MA 02143 ([Google Maps][bow_gmaps]) ([OpenStreetMap][bow_osm])
 -->
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
