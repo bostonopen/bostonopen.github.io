@@ -2,16 +2,24 @@
 layout: default
 ---
 
-Hello! Details on next open source meetup, which is colocated with the post-[FSF40 celebration](https://www.fsf.org/blogs/community/fsf40-celebration-registration):
+Hello! In November we're mixing it up by meeting at a bar ([help decide](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/540688305) which one!) near Brighton Music Hall where Bit Brigade is playing.
 
-- When: Saturday, Oct. 4th, 2025 at 7:30pm ⏰
-- Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps]) 🧭
-- [Discuss](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-10.20meetup/with/542923452)! 💬
+Here's the main meetup (pre-show):
 
+- When: Sunday, Nov. 23rd, 2025 at 4pm? ⏰
+- Where: [Silhouette Lounge][]? ([Google Maps][sil_gmaps]) 🧭
+- [Discuss](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/540688305)
+
+Here's the Bit Brigade (and Galactic Empire) show:
+
+- When: Sunday, Nov. 23rd, 2025 at 6:30pm ⏰
+- Where: [Brighton Music Hall][],158 Brighton Ave, Allston, MA 02134 ([Google Maps][bmh_gmaps])
+- Tickets: [$36.50](https://crossroadspresents.com/pages/more-info-event?eventid=vv168vNeoQeZ757Fe&venueid=KovZpapwne)
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 - Where: [Mamacita][], 329 Huntington Ave, Boston, MA 02115 ([Google Maps][mamacita_gmaps]) ([OpenStreetMap][mamacita_osm])
+- Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps])
 - Where: [Grendel's Den][], 89 Winthrop St, Cambridge, MA 02138 ([Google Maps][grendels_gmaps])
 - Where: [Bow Market][], 1 Bow Market Way, Somerville, MA 02143 ([Google Maps][bow_gmaps]) ([OpenStreetMap][bow_osm])
 -->
@@ -41,6 +49,12 @@ Hello! Details on next open source meetup, which is colocated with the post-[FSF
 [Bow Market]: https://www.bowmarketsomerville.com
 [bow_gmaps]: https://maps.app.goo.gl/7PMEXgehNYjeXVnx9
 [bow_osm]: https://www.openstreetmap.org/way/1330341631
+
+[Brighton Music Hall]: https://crossroadspresents.com/pages/brighton-music-hall
+[bmh_gmaps]: https://maps.app.goo.gl/KQUug7SRKHKUsyz37
+
+[Silhouette Lounge]: https://www.silhouetteallston.com
+[sil_gmaps]: https://maps.app.goo.gl/7b1diXSvivMALFys5
 
 <img src="images/2024-11.jpg">
 
