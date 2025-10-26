@@ -2,19 +2,20 @@
 layout: default
 ---
 
-Hello! In November we're mixing it up by meeting at a bar ([help decide](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/540688305) which one!) near Brighton Music Hall where Bit Brigade is playing.
+Hello! As we've been [discussing](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/540688305) (feel free to join in!) in November we're mixing it up by meeting at a bar near Brighton Music Hall where [Bit Brigade](https://en.wikipedia.org/wiki/Bit_Brigade) is playing.
 
-Here's the main meetup (pre-show):
+Here's the main meetup (pre-show at a bar):
 
-- When: Sunday, Nov. 23rd, 2025 at 4pm? ⏰
-- Where: [Silhouette Lounge][]? ([Google Maps][sil_gmaps]) 🧭
-- [Discuss](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/540688305)
+- When: Sunday, Nov. 23rd, 2025 at 4pm ⏰
+- Where: [Silhouette Lounge][], 200 Brighton Ave, Allston, MA 02134 ([Google Maps][sil_gmaps]) 🧭
 
-Here's the Bit Brigade (and Galactic Empire) show:
+Here's the optional Bit Brigade (and Galactic Empire) show:
 
 - When: Sunday, Nov. 23rd, 2025 at 6:30pm ⏰
-- Where: [Brighton Music Hall][],158 Brighton Ave, Allston, MA 02134 ([Google Maps][bmh_gmaps])
-- Tickets: [$36.50](https://crossroadspresents.com/pages/more-info-event?eventid=vv168vNeoQeZ757Fe&venueid=KovZpapwne)
+- Where: [Brighton Music Hall][], 158 Brighton Ave, Allston, MA 02134 ([Google Maps][bmh_gmaps]) 🧭
+- Tickets: [$36.50](https://crossroadspresents.com/pages/more-info-event?eventid=vv168vNeoQeZ757Fe&venueid=KovZpapwne) 💵
+
+We hope to see you there!
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
