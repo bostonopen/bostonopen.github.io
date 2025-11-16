@@ -9,7 +9,7 @@ Here's the main meetup (pre-show at a bar):
 - When: Sunday, Nov. 23rd, 2025 at 4pm ⏰
 - Where: [Silhouette Lounge][], 200 Brighton Ave, Allston, MA 02134 ([Google Maps][sil_gmaps]) 🧭
 
-Here's the optional Bit Brigade (and Galactic Empire) show:
+Here's the optional Bit Brigade show (and a [preview](https://www.youtube.com/watch?v=KkO6rTDe0bI) of what they sound like):
 
 - When: Sunday, Nov. 23rd, 2025 at 6:30pm ⏰
 - Where: [Brighton Music Hall][], 158 Brighton Ave, Allston, MA 02134 ([Google Maps][bmh_gmaps]) 🧭
