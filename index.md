@@ -2,23 +2,14 @@
 layout: default
 ---
 
-Hello! As we've been [discussing](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/540688305) (feel free to join in!) in November we're mixing it up by meeting at a bar near Brighton Music Hall where [Bit Brigade](https://en.wikipedia.org/wiki/Bit_Brigade) is playing.
+Hello! As [discussed](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-12.20meetup/near/547162196), here are the details for the next open source meetup:
 
-Here's the main meetup (pre-show at a bar):
-
-- When: Sunday, Nov. 23rd, 2025 at 4pm ⏰
-- Where: [Silhouette Lounge][], 200 Brighton Ave, Allston, MA 02134 ([Google Maps][sil_gmaps]) 🧭
-
-Here's the optional Bit Brigade show (and a [preview](https://www.youtube.com/watch?v=KkO6rTDe0bI) of what they sound like):
-
-- When: Sunday, Nov. 23rd, 2025 at 6:30pm ⏰
-- Where: [Brighton Music Hall][], 158 Brighton Ave, Allston, MA 02134 ([Google Maps][bmh_gmaps]) 🧭
-- Tickets: [$36.50](https://crossroadspresents.com/pages/more-info-event?eventid=vv168vNeoQeZ757Fe&venueid=KovZpapwne) 💵
-
-We hope to see you there!
+- When: Sunday, Dec. 14th, 2025 at 7pm
+- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
+- Where: [Silhouette Lounge][], 200 Brighton Ave, Allston, MA 02134 ([Google Maps][sil_gmaps])
 - Where: [Mamacita][], 329 Huntington Ave, Boston, MA 02115 ([Google Maps][mamacita_gmaps]) ([OpenStreetMap][mamacita_osm])
 - Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps])
 - Where: [Grendel's Den][], 89 Winthrop St, Cambridge, MA 02138 ([Google Maps][grendels_gmaps])
