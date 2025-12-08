@@ -7,6 +7,8 @@ Hello! As [discussed](https://osdc.zulipchat.com/#narrow/channel/406743-boston/t
 - When: Sunday, Dec. 14th, 2025 at 7pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 
+If you want, bring a small item of low value and participate in a Yankee swap! Otherwise, you're very welcome to simply watch the fun.
+
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
 - Where: [Silhouette Lounge][], 200 Brighton Ave, Allston, MA 02134 ([Google Maps][sil_gmaps])
