@@ -75,6 +75,7 @@ See you soon!
 
 Previous meetups:
 
+- 2025-12 3 people
 - 2025-11 5 people ([pics!](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/558924085))
 - 2025-10 4 people
 - 2025-09 7 people ([pics](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/540677611))
