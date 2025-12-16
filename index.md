@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Help us decide when and where to meet in January! ❄️ Join us in Zulip and reply on the [2026-01 meetup](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-01.20meetup/near/563947618) thread!
+
 Hello! As [discussed](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-12.20meetup/near/547162196), here are the details for the next open source meetup:
 
 - When: Sunday, Dec. 14th, 2025 at 7pm
