@@ -2,14 +2,11 @@
 layout: default
 ---
 
-## Help us decide when and where to meet in January! ❄️ Join us in Zulip and reply on the [2026-01 meetup](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-01.20meetup/near/563947618) thread!
+Here are the details for the next open source meetup:
 
-Hello! As [discussed](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-12.20meetup/near/547162196), here are the details for the next open source meetup:
-
-- When: Sunday, Dec. 14th, 2025 at 7pm
+- When: Sunday, Jan. 25th, 2026 at 7pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
-
-If you want, bring a small item of low value and participate in a [Yankee swap](https://en.wikipedia.org/wiki/White_elephant_gift_exchange)! Otherwise, you're very welcome to simply watch the fun.
+- Discuss: [2026-01 thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-01.20meetup/near/563947618) on Zulip
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
