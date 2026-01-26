@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Sorry, we had to cancel our January meetup due to the snow! Please join [this thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-02.20meetup/near/569990834) to help us decide when to meet in February!
+
 Here are the details for the next open source meetup:
 
 - When: Sunday, Jan. 25th, 2026 at 7pm
@@ -74,6 +76,7 @@ See you soon!
 
 Previous meetups:
 
+- 2026-01 Skipped! Snow emergency declared! ❄️
 - 2025-12 3 people
 - 2025-11 5 people ([pics!](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/558924085))
 - 2025-10 4 people
