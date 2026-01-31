@@ -2,13 +2,11 @@
 layout: default
 ---
 
-# Sorry, we had to cancel our January meetup due to the snow! Please join [this thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-02.20meetup/near/569990834) to help us decide when to meet in February!
-
 Here are the details for the next open source meetup:
 
-- When: Sunday, Jan. 25th, 2026 at 7pm
+- When: Sunday, Feb. 8th, 2026 at 7pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
-- Discuss: [2026-01 thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-01.20meetup/near/563947618) on Zulip
+- Discuss: [2026-02 thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-02.20meetup/near/569990834) on Zulip
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
