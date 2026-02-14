@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Help us decide when and where to meet in March! You're welcome to join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-03.20meetup/near/573914646) in Zulip!
+
 Here are the details for the next open source meetup:
 
 - When: Sunday, Feb. 8th, 2026 at 7pm
