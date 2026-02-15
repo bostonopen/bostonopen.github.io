@@ -72,6 +72,10 @@ Once you have attended a meetup, we'd love for you to add yourself to [bostonope
 
 [people.tsv]: https://github.com/bostonopen/people/blob/main/people.tsv
 
+Here's a map of places we've met. We default to Hamilton in Coolidge Corner.
+
+<div id="map"></div>
+
 See you soon!
 
 Previous meetups:

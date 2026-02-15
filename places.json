@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Hamilton",
+    "lat": 42.3421121572363,
+    "lng": -71.12328357782803,
+    "website": "https://hamiltonbrookline.com",
+    "description": "Our default location.",
+    "pics": "https://floss.social/@bostonopen/113550742212323250",
+    "discussion": "",
+    "size": 20
+  },
+  {
+    "name": "Time Out Market",
+    "lat": 42.34487927879428,
+    "lng": -71.1026934489633,
+    "website": "https://timeout.com/time-out-market-boston",
+    "description": "",
+    "pics": "https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-07.20meetup/near/529716409",
+    "size": 10
+  },
+  {
+    "name": "Silhouette Lounge",
+    "lat": 42.35328669540166,
+    "lng": -71.13440293556556,
+    "website": "https://silhouetteallston.com",
+    "description": "",
+    "pics": "https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-11.20meetup/near/558930649",
+    "size": 10
+  },
+  {
+    "name": "Grendel's Den",
+    "lat": 42.37264004044646,
+    "lng": -71.12078079122892,
+    "website": "https://grendelsden.com",
+    "description": "",
+    "pics": "https://floss.social/@bostonopen/115006739381797224",
+    "size": 10
+  },
+  {
+    "name": "Charles River Speedway",
+    "lat": 42.36222080221227,
+    "lng": -71.14364149606813,
+    "website": "https://charlesriverspeedway.com",
+    "description": "",
+    "pics": "https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-06.20meetup/near/523011365",
+    "size": 10
+  },
+  {
+    "name": "Bow Market",
+    "lat": 42.381348782020545,
+    "lng": -71.09780789773903,
+    "website": "https://bowmarketsomerville.com",
+    "description": "",
+    "pics": "https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2025-09.20meetup/near/540677611",
+    "size": 10
+  },
+  {
+    "name": "Mamacita",
+    "lat": 42.341029520945604,
+    "lng": -71.08812576233973,
+    "website": "https://mamacitaboston.com",
+    "description": "",
+    "pics": "https://floss.social/@bostonopen/113830228361120420",
+    "size": 10
+  }
+]
