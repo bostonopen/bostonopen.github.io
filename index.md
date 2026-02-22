@@ -2,13 +2,11 @@
 layout: default
 ---
 
-## Help us decide when and where to meet in March! You're welcome to join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-03.20meetup/near/573914646) in Zulip!
-
 Here are the details for the next open source meetup:
 
-- When: Sunday, Feb. 8th, 2026 at 7pm
-- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
-- Discuss: [2026-02 thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-02.20meetup/near/569990834) on Zulip
+- When: Sunday, March 15th, 2026 at 7pm
+- Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps])
+- Discuss: [2026-03 thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-03.20meetup/near/573914646) on Zulip
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
