@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Please join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-04.20meetup/near/579685007) about when and where to meet in April!
+
 Here are the details for the next open source meetup:
 
 - When: Sunday, March 15th, 2026 at 7pm
