@@ -78,6 +78,7 @@ See you soon!
 
 Previous meetups:
 
+- 2026-04 15 people ([pics!](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-04.20meetup/near/585082573))
 - 2026-03 6 people ([pics!](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-03.20meetup/near/579587637))
 - 2026-02 4 people ([pics!](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-02.20meetup/near/572662613))
 - 2026-01 Skipped! Snow emergency declared! ❄️
