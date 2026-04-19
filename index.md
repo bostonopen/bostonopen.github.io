@@ -2,13 +2,11 @@
 layout: default
 ---
 
-## Join the [discussion](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-05.20meetup/near/576358004) of when and where to meet in May!
-
 Here are the details for the next open source meetup:
 
-- When: Sunday, April 12th, 2026 at 7pm
+- When: Sunday, May 31st, 2026 at 7pm
 - Where: [Time Out Market Boston][], 401 Park Dr, Boston, MA 02215 ([Google Maps][tob_gmaps])
-- Discuss: [2026-04 thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-04.20meetup/near/579685007) on Zulip
+- Discuss: [2026-05 thread](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-05.20meetup/near/576358004) on Zulip
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
