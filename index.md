@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Help us decide when to meet in June by joining the [#boston>2026-06 meetup](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-06.20meetup/near/599135248) topic on Zulip!
+
 Here are the details for the next open source meetup:
 
 - When: Sunday, May 31st, 2026 at 7pm
