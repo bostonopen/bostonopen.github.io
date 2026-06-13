@@ -20,7 +20,7 @@ function buildCalendarUrl(meetup) {
     const durationHours = Number(meetup.duration_hours);
     const durationMs = (Number.isFinite(durationHours) && durationHours > 0 ? durationHours : 2) * 60 * 60 * 1000;
     const end = new Date(start.getTime() + durationMs);
-    const details = "Discuss: " + meetup.discussion.label + ": " + meetup.discussion.url + "\n\nhttps://bostonopen.dev";
+    const details = "Discuss: Zulip thread: " + meetup.discussion_url + "\n\nhttps://bostonopen.dev";
     const params = new URLSearchParams({
         action: "TEMPLATE",
         text: "Boston Open Dev Meetup",

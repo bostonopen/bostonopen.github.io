@@ -16,10 +16,7 @@ test('buildCalendarUrl creates expected calendar URL params', () => {
       name: 'Time Out Market Boston',
       address: '401 Park Dr, Boston, MA 02215'
     },
-    discussion: {
-      label: '2026-06 thread',
-      url: 'https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-06.20meetup/near/599135248'
-    }
+    discussion_url: 'https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-06.20meetup/near/599135248'
   };
 
   const url = buildCalendarUrl(meetup);
@@ -36,7 +33,7 @@ test('buildCalendarUrl creates expected calendar URL params', () => {
   assert.equal(params.get('location'), 'Time Out Market Boston, 401 Park Dr, Boston, MA 02215');
   assert.equal(
     params.get('details'),
-    'Discuss: 2026-06 thread: https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-06.20meetup/near/599135248\n\nhttps://bostonopen.dev'
+    'Discuss: Zulip thread: https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-06.20meetup/near/599135248\n\nhttps://bostonopen.dev'
   );
 });
 
@@ -46,7 +43,7 @@ test('buildCalendarUrl returns null for invalid date input', () => {
     timezone: 'America/New_York',
     duration_hours: 3,
     venue: { name: 'X', address: 'Y' },
-    discussion: { label: 'Z', url: 'https://example.com' }
+    discussion_url: 'https://example.com'
   };
 
   assert.equal(buildCalendarUrl(meetup), null);
