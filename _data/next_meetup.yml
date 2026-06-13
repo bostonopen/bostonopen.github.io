@@ -1,5 +1,6 @@
 start: "2026-06-21 19:00"
 timezone: "America/New_York"
+duration_hours: 3
 
 venue:
   name: "Time Out Market Boston"

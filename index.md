@@ -8,6 +8,9 @@ Here are the details for the next open source meetup:
 - When: {{ next.start | date: "%A, %B %-d, %Y at %-I%P" }}
 - Where: [{{ next.venue.name }}]({{ next.venue.url }}), {{ next.venue.address }} ([Google Maps]({{ next.venue.maps_url }}))
 - Discuss: [{{ next.discussion.label }}]({{ next.discussion.url }}) on Zulip
+- Add to calendar: <a id="gcal-link" href="https://calendar.google.com/calendar/render?action=TEMPLATE" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+
+<script id="next-meetup-data" type="application/json">{{ next | jsonify }}</script>
 
 <!--
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street, Brookline, MA 02446 ([Google Maps][hamilton_gmaps]) ([OpenStreetMap][hamilton_osm])
