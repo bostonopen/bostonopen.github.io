@@ -1,0 +1,12 @@
+start: "2026-06-21 19:00"
+timezone: "America/New_York"
+
+venue:
+  name: "Time Out Market Boston"
+  url: "https://www.timeout.com/time-out-market-boston"
+  address: "401 Park Dr, Boston, MA 02215"
+  maps_url: "https://maps.app.goo.gl/Rxc91vumkD2PRJmu8"
+
+discussion:
+  label: "2026-06 thread"
+  url: "https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-06.20meetup/near/599135248"
