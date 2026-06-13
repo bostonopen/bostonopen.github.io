@@ -61,7 +61,7 @@ These meetups are extremely casual. Often [we](https://bostonopen.github.io/peop
 
 <img src="images/logo.svg" width="100" align="right">
 
-You can just show up, but since we are always asked how large of a table we need, we appreciate you letting us know if you're coming. You can post on [Zulip][], <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a>, [Signal Group][] or [GitHub Discussions][]. Or you can email <philipdurbin@gmail.com>.
+You can just show up, but you're welcome to let us know you're coming on [Zulip]({{ next.discussion_url }}), <a rel="me" href="https://floss.social/@bostonopen">Mastodon</a>, [Signal Group][] or [GitHub Discussions][]. Or you can email <philipdurbin@gmail.com>.
 
 [GitHub Discussions]: https://github.com/orgs/bostonopen/discussions
 [Zulip]: https://osdc.zulipchat.com/#narrow/stream/406743-boston
