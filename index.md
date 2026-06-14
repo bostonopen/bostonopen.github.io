@@ -68,7 +68,7 @@ You can just show up, but you're welcome to let us know you're coming on [Zulip]
 [Mastodon]: https://floss.social/@bostonopen
 [Signal Group]: https://signal.group/#CjQKIGoh9--iomqNWoG9reLXz9RaAnDC_O1bw1BOk3gZlexUEhDy9Tes9s26HYi_bg5voUBE
 
-We use the default [code of conduct](CODE_OF_CONDUCT.md) from GitHub, which says we want "an open, welcoming, diverse, inclusive, and healthy community."
+We use the standard [code of conduct](CODE_OF_CONDUCT.md) from GitHub, which says we want "an open, welcoming, diverse, inclusive, and healthy community."
 
 Once you have attended a meetup, we'd love for you to add yourself to [bostonopen.dev/people](https://bostonopen.dev/people)! The file to edit is [people.tsv][].
 
