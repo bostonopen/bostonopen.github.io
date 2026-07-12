@@ -1,0 +1,20 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Boston OSDC//Jekyll Meetup Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:meetup-{{ site.data.next_meetup.start | date: "%Y%m%d%H%M%S" }}@bostonosdc
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;TZID={{ site.data.next_meetup.timezone }}:{{ site.data.next_meetup.start | date: "%Y%m%dT%H%M%S" }}
+{% assign duration_seconds = site.data.next_meetup.duration_hours | multiplied_by: 3600 %}
+DTEND;TZID={{ site.data.next_meetup.timezone }}:{{ site.data.next_meetup.start | date: "%s" | plus: duration_seconds | date: "%Y%m%dT%H%M%S" }}
+SUMMARY:Boston Open Source Developer Community Meetup
+DESCRIPTION:Join us for our upcoming meetup!\\n\\nDiscussion Thread: {{ site.data.next_meetup.discussion_url }}\\nVenue Website: {{ site.data.next_meetup.venue.url }}
+LOCATION:{{ site.data.next_meetup.venue.name }}\, {{ site.data.next_meetup.venue.address }}
+URL:{{ site.data.next_meetup.discussion_url }}
+END:VEVENT
+END:VCALENDAR
