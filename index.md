@@ -10,11 +10,8 @@ Here are the details for the next open source meetup:
 - Discuss: [Zulip thread]({{ next.discussion_url }})
 {% assign absolute_url = site.url | append: site.baseurl | append: "/meetup.ics" %}
 {% assign webcal_url = absolute_url | remove: "https://" | remove: "http://" | prepend: "webcal://" %}
-- Add to calendar: 
-    - <a href="{{ webcal_url }}">Apple Calendar or Outlook</a>
-    - <a href="https://calendar.google.com/calendar/r?cid={{ webcal_url }}">Google Calendar</a>
-    - <a href="https://outlook.office.com/calendar/0/addfromweb?url{{ webcal_url }}">Microsoft365</a>
-    - <a href="{{ absolute_url }}">iCal Feed</a>
+Add to calendar: <a id="gcal-link" href="https://calendar.google.com/calendar/render?action=TEMPLATE" target="_blank" rel="noopener noreferrer">Google Calendar</a> (<a href="{{ webcal_url }}">webcal</a>, <a href="{{ absolute_url }}">ICS</a>)
+  
 
 <script id="next-meetup-data" type="application/json">{{ next | jsonify }}</script>
 
