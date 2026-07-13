@@ -8,7 +8,10 @@ Here are the details for the next open source meetup:
 - When: {{ next.start | date: "%A, %B %-d, %Y at %-I%P" }}
 - Where: [{{ next.venue.name }}]({{ next.venue.url }}), {{ next.venue.address }} ([Google Maps]({{ next.venue.maps_url }}))
 - Discuss: [Zulip thread]({{ next.discussion_url }})
-- Add to calendar: <a id="gcal-link" href="https://calendar.google.com/calendar/render?action=TEMPLATE" target="_blank" rel="noopener noreferrer">Google Calendar</a>
+{% assign absolute_url = site.url | append: site.baseurl | append: "/meetup.ics" %}
+{% assign webcal_url = absolute_url | remove: "https://" | remove: "http://" | prepend: "webcal://" %}
+Add to calendar: <a id="gcal-link" href="https://calendar.google.com/calendar/render?action=TEMPLATE" target="_blank" rel="noopener noreferrer">Google Calendar</a> (<a href="{{ webcal_url }}">webcal</a>, <a href="{{ absolute_url }}">ICS</a>)
+  
 
 <script id="next-meetup-data" type="application/json">{{ next | jsonify }}</script>
 
