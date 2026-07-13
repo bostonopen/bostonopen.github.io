@@ -56,7 +56,7 @@ Add to calendar: <a id="gcal-link" href="https://calendar.google.com/calendar/re
 [Silhouette Lounge]: https://www.silhouetteallston.com
 [sil_gmaps]: https://maps.app.goo.gl/7b1diXSvivMALFys5
 
-<img src="images/2024-11.jpg">
+<img src="images/2026-07.jpg">
 
 <img src="images/logo-box.svg" width="100" align="right">
 
