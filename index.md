@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Help us decide when to meet in August! We're [chatting](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-08.20meetup/near/609638253) in Zulip about it!
+
 Here are the details for the next open source meetup:
 
 {% assign next = site.data.next_meetup %}
