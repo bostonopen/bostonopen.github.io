@@ -1,7 +1,9 @@
 var map = L.map('map').setView([42.359068001401006, -71.09147396226346], 13);
 
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+L.maplibreGL({
+    style: 'https://tiles.openfreemap.org/styles/bright',
+    attribution: '<a href="https://openfreemap.org">OpenFreeMap</a> '
+        + '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
 fetch('places.json')
