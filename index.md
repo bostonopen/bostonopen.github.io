@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## When should we meet in November? Help us [decide](https://osdc.zulipchat.com/#narrow/channel/406743-boston/topic/2026-11.20meetup/near/632986368)!
+
 Here are the details for the next open source meetup:
 
 {% assign next = site.data.next_meetup %}
